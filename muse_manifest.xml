@@ -1,0 +1,104 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="test.github.io" resolutions="1x" timestamp="1479600331658">
+  <folder name="css">
+    <file name="site_global.css" crc="203103584"/>
+    <file name="master_a-master.css" crc="3935466018" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4288486137" ref="index"/>
+    <file name="70-kg-of-clay.css" crc="453775378" ref="70-kg-of-clay"/>
+    <file name="nomq_70-kg-of-clay.css" crc="4026245197" ref="70-kg-of-clay"/>
+    <file name="index.css" crc="3773730404" ref="index"/>
+    <file name="nomq_index.css" crc="200439064" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:70-kg-of-clay"/>
+    <file name="museutils.js" crc="163421577" ref="index:70-kg-of-clay"/>
+    <file name="whatinput.js" crc="86476730" ref="index:70-kg-of-clay"/>
+    <file name="museconfig.js" crc="168988563" ref="index:70-kg-of-clay"/>
+    <file name="webpro.js" crc="3848665353" ref="index:70-kg-of-clay"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:70-kg-of-clay"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:70-kg-of-clay"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:70-kg-of-clay"/>
+    <file name="require.js" crc="244322403" ref="index:70-kg-of-clay"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="70-kg-of-clay"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="70-kg-of-clay"/>
+    <file name="touchswipe.js" crc="404375771" ref="70-kg-of-clay"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="70-kg-of-clay"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="205410984" ref="index"/>
+    <file name="screen shot 2016-11-08 at 123634.png" crc="3775162020" seo="true" ref="index"/>
+    <file name="screen shot 2016-11-10 at 173612.jpg" crc="4193873584" ref="index"/>
+    <file name="screen shot 2016-11-10 at 173624.jpg" crc="4246814049" ref="index"/>
+    <file name="screen shot 2016-11-08 at 123634461x351.png" crc="3806003925" seo="true" ref="index"/>
+    <file name="screen shot 2016-11-08 at 123634299x228.png" crc="63882560" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:70-kg-of-clay"/>
+    <file name="zahar_clay_020000.jpg" crc="357992490" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020033.jpg" crc="270980337" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020002.jpg" crc="4228908734" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020003.jpg" crc="159279423" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020004.jpg" crc="420954499" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020005.jpg" crc="4248494354" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020006.jpg" crc="4015747002" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020007.jpg" crc="4267521413" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020008.jpg" crc="4256664633" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020009.jpg" crc="3903056801" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020010.jpg" crc="3910628108" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020011.jpg" crc="3912919410" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020012.jpg" crc="496080985" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020013.jpg" crc="3829791806" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020014.jpg" crc="4109029427" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020015.jpg" crc="4290141061" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020016.jpg" crc="244567984" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020017.jpg" crc="145572634" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020018.jpg" crc="99863602" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020019.jpg" crc="455907013" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020020.jpg" crc="247382000" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020021.jpg" crc="4203123162" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020022.jpg" crc="4259636333" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020023.jpg" crc="3984795145" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020024.jpg" crc="354121021" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020025.jpg" crc="4006419298" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020026.jpg" crc="3805605805" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020027.jpg" crc="408373041" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020028.jpg" crc="3840124950" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020029.jpg" crc="4083116805" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020030.jpg" crc="345760901" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020031.jpg" crc="3857399666" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020032.jpg" crc="38698784" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020066.jpg" crc="3967326970" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020034.jpg" crc="3863364926" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020035.jpg" crc="3826021684" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020036.jpg" crc="236477165" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020037.jpg" crc="4219708197" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020038.jpg" crc="4016356851" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020039.jpg" crc="176810297" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020040.jpg" crc="3893900032" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020041.jpg" crc="276688195" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020042.jpg" crc="17138491" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020043.jpg" crc="479606684" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020044.jpg" crc="303970001" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020045.jpg" crc="3970453448" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020046.jpg" crc="3799778385" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020047.jpg" crc="3788423545" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020048.jpg" crc="323138344" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020049.jpg" crc="3804362970" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020050.jpg" crc="424090345" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020051.jpg" crc="298422468" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020052.jpg" crc="4203927822" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020053.jpg" crc="431850512" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020054.jpg" crc="408638154" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020055.jpg" crc="509562575" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020056.jpg" crc="3835765502" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020057.jpg" crc="4203307306" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020058.jpg" crc="162736795" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020059.jpg" crc="4212654973" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020060.jpg" crc="388147423" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020061.jpg" crc="3106507" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020062.jpg" crc="343742820" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020063.jpg" crc="97159702" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020064.jpg" crc="3885334651" seo="true" ref="70-kg-of-clay"/>
+    <file name="zahar_clay_020065.jpg" crc="4280571598" seo="true" ref="70-kg-of-clay"/>
+    <file name="loading.gif" crc="3815509949" ref="70-kg-of-clay"/>
+  </folder>
+  <file name="index.html" crc="395188171" seo="true" mt="1479600123152" redirect="true"/>
+  <file name="70-kg-of-clay.html" crc="3964454729" seo="true" mt="1479599475605" redirect="true"/>
+</manifest>
